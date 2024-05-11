@@ -5,5 +5,5 @@
 [Практика 4](https://github.com/rpz326/mobile_dev_lesson_4)  
 [Практика 5](https://github.com/rpz326/mobile_dev_lesson_5)  
 [Практика 6](https://github.com/rpz326/mobile_dev_lesson_6)  
-[Практика 6](https://github.com/rpz326/mobile_dev_lesson_7)  
+[Практика 7](https://github.com/rpz326/mobile_dev_lesson_7)  
 [MireaProject](https://github.com/rpz326/MireaProject)
